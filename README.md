@@ -4,13 +4,28 @@ A new Flutter application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+In this Repo you will get a more in-depth understanding of how to use the Flutter PageView Widget.
 
-A few resources to get you started if this is your first Flutter project:
+<div style="text-align: center">
+    <table>
+        <tr>     
+            <td style="text-align: center">              
+                      <img src="https://github.com/whatsupcoders/Flutter-PageView/blob/master/assets/Screenshot_1561519501.png" width="200"/>
+            </td>
+            <td style="text-align: center">
+                     <img src="https://github.com/whatsupcoders/Flutter-PageView/blob/master/assets/Screenshot_1561519503.png" width="200"/>
+            </td>   
+           <td style="text-align: center">
+                     <img src="https://github.com/whatsupcoders/Flutter-PageView/blob/master/assets/flutter_pageview.gif" width="200"/>
+            </td>   
+      </tr>
+  </table>
+  </div>
+  
+For more Flutter Tutorials watch my videos on https://www.youtube.com/c/whatsupcoders <br />
+If you appreciate the content 📖, support projects visibility, give 👍| ⭐| 👏
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+FOLLOW ME HERE:
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+Facebook: https://www.facebook.com/whatsupcoders <br />
+Twitter: https://www.twitter.com/whatsupcoders
