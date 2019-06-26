@@ -1,6 +1,6 @@
 # flutter_pageview_app
 
-A new Flutter application.
+Flutter Tutorial - Flutter PageView Widget Video series can be watched here https://youtu.be/ODNpsNj8wRQ
 
 ## Getting Started
 
